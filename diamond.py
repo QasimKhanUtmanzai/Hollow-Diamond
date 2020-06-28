@@ -1,3 +1,4 @@
+#this is a code for hollow diamond
 i=0
 j=0
 k=0
